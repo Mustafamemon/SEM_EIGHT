@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Scripts>
+    <Script>Abbott Laboratories Pak Ltd. </Script>
+    <Price>731.9</Price>
+  </Scripts>
+  <Scripts>
+    <Script>AGP Limited. </Script>
+    <Price>117.33</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ferozsons Laboratories Ltd. </Script>
+    <Price>321.9</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Glaxo SmithKline Healthcare Pak Ltd. </Script>
+    <Price>228.27</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Glaxo SmithKline Pakistan Ltd. </Script>
+    <Price>159.13</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Highnoon Laboratories Ltd. </Script>
+    <Price>625</Price>
+  </Scripts>
+  <Scripts>
+    <Script>IBL HealthCare Limited. </Script>
+    <Price>92.32</Price>
+  </Scripts>
+  <Scripts>
+    <Script>The Searle Company Ltd. </Script>
+    <Price>252.05</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Wyeth Pakistan Limited.(XD) </Script>
+    <Price>944.5</Price>
+  </Scripts>
+</xml>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Scripts>
+    <Script>Allied Bank Ltd.(XD) </Script>
+    <Price>73.49</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Askari Bank Limited.(XD) </Script>
+    <Price>20.45</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bank Al-Habib Ltd.(XD) </Script>
+    <Price>65.26</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bank Alfalah Ltd.(XD) </Script>
+    <Price>31.69</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bank Of Punjab.(XD) </Script>
+    <Price>8.35</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Bankislami Pakistan Ltd. </Script>
+    <Price>12.09</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Faysal Bank Limited. </Script>
+    <Price>16.7</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Habib Bank Limited.(XD) </Script>
+    <Price>123.35</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Habib Metropolitan Bank Limited.(XD) </Script>
+    <Price>33.3</Price>
+  </Scripts>
+  <Scripts>
+    <Script>JS Bank Limited. </Script>
+    <Price>5.68</Price>
+  </Scripts>
+  <Scripts>
+    <Script>MCB Bank Limited.(XD) </Script>
+    <Price>171.82</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Meezan Bank Limited.(XD) </Script>
+    <Price>112.09</Price>
+  </Scripts>
+  <Scripts>
+    <Script>National Bank Of Pakistan. </Script>
+    <Price>33.5</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Samba Bank Limited.(XD) </Script>
+    <Price>7</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Silk Bank Limited. </Script>
+    <Price>1.19</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Soneri Bank Ltd.(XD) </Script>
+    <Price>8.78</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Summit Bank Limited. [ DEFAULTER SEGMENT ]</Script>
+    <Price>1.62</Price>
+  </Scripts>
+  <Scripts>
+    <Script>The Bank of Khyber.(XDXB) </Script>
+    <Price>17.05</Price>
+  </Scripts>
+  <Scripts>
+    <Script>United Bank Ltd.(XD) </Script>
+    <Price>120.92</Price>
+  </Scripts>
+</xml>

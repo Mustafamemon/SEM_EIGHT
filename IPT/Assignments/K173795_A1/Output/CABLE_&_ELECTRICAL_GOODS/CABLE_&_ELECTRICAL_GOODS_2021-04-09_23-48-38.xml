@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Scripts>
+    <Script>EMCO Industries Ltd. </Script>
+    <Price>29.41</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pak Elektron Ltd. </Script>
+    <Price>33.37</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Cables Ltd. </Script>
+    <Price>130</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Siemens (Pak) Eng. Co. Ltd. </Script>
+    <Price>500</Price>
+  </Scripts>
+  <Scripts>
+    <Script>WAVES Singer Pakistan Ltd. </Script>
+    <Price>22.33</Price>
+  </Scripts>
+</xml>

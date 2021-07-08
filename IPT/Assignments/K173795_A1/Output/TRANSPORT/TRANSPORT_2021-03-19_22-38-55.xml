@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Scripts>
+    <Script>Pak International Airline Corp Ltd </Script>
+    <Price>4.49</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Int.Container Terminal. </Script>
+    <Price>158.01</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan Intl. Bulk Terminal Ltd. </Script>
+    <Price>10.79</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Pakistan National Shipping Co. </Script>
+    <Price>82.89</Price>
+  </Scripts>
+</xml>

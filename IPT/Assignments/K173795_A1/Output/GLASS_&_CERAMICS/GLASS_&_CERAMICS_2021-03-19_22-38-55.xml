@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Scripts>
+    <Script>Balochistan Glass Ltd. </Script>
+    <Price>9.26</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Frontier Ceramics Ltd. </Script>
+    <Price>35.21</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ghani Glass Ltd. </Script>
+    <Price>45.99</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ghani Global Glass Limited. </Script>
+    <Price>14.99</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Ghani Value Glass Limited. </Script>
+    <Price>57.89</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Shabbir Tiles and Ceramics Limited. </Script>
+    <Price>25.35</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Tariq Glass. </Script>
+    <Price>108.8</Price>
+  </Scripts>
+</xml>

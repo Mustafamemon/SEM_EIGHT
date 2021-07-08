@@ -1,0 +1,110 @@
+﻿Installing assembly 'E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.InstallLog
+   assemblypath = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe assembly.
+Committing assembly 'E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.InstallLog
+   assemblypath = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.InstallLog
+   assemblypath = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+Installing service K173795_Q3_MoveFiles...
+Service K173795_Q3_MoveFiles has been successfully installed.
+Creating EventLog source K173795_Q3_MoveFiles in log Application...
+Committing assembly 'E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.InstallLog
+   assemblypath = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+Uninstalling assembly 'E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+   logfile = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.InstallLog
+Removing EventLog source K173795_Q3_MoveFiles.
+Service K173795_Q3_MoveFiles is being removed from the system...
+Service K173795_Q3_MoveFiles was successfully removed from the system.
+Installing assembly 'E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+   logfile = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.InstallLog
+Installing service K173795_Q3...
+Service K173795_Q3 has been successfully installed.
+Creating EventLog source K173795_Q3 in log Application...
+Committing assembly 'E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+   logfile = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.InstallLog
+Uninstalling assembly 'E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+   logfile = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.InstallLog
+Removing EventLog source K173795_Q3.
+Service K173795_Q3 is being removed from the system...
+Service K173795_Q3 was successfully removed from the system.
+Installing assembly 'E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+   logfile = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.InstallLog
+Installing service K173795_Q3...
+Service K173795_Q3 has been successfully installed.
+Creating EventLog source K173795_Q3 in log Application...
+Committing assembly 'E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+   logfile = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.InstallLog
+Uninstalling assembly 'E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+   logfile = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.InstallLog
+Removing EventLog source K173795_Q3.
+Service K173795_Q3 is being removed from the system...
+Service K173795_Q3 was successfully removed from the system.
+Installing assembly 'E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+   logfile = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.InstallLog
+Installing service K173795_Q3...
+Service K173795_Q3 has been successfully installed.
+Creating EventLog source K173795_Q3 in log Application...
+Committing assembly 'E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+   logfile = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.InstallLog
+Uninstalling assembly 'E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+   logfile = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.InstallLog
+Removing EventLog source K173795_Q3.
+Service K173795_Q3 is being removed from the system...
+Service K173795_Q3 was successfully removed from the system.
+Installing assembly 'E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+   logfile = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.InstallLog
+Installing service K173795_Q3...
+Service K173795_Q3 has been successfully installed.
+Creating EventLog source K173795_Q3 in log Application...
+Committing assembly 'E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+   logfile = E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.InstallLog

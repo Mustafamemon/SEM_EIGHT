@@ -1,0 +1,10 @@
+E:\Fast\SEM 8\IPT\Assignments\K173795_A1\K173795_Q2\K173795_Q2\bin\Release\K173795_Q2.exe.config
+E:\Fast\SEM 8\IPT\Assignments\K173795_A1\K173795_Q2\K173795_Q2\bin\Release\K173795_Q2.exe
+E:\Fast\SEM 8\IPT\Assignments\K173795_A1\K173795_Q2\K173795_Q2\bin\Release\K173795_Q2.pdb
+E:\Fast\SEM 8\IPT\Assignments\K173795_A1\K173795_Q2\K173795_Q2\bin\Release\HtmlAgilityPack.dll
+E:\Fast\SEM 8\IPT\Assignments\K173795_A1\K173795_Q2\K173795_Q2\bin\Release\HtmlAgilityPack.pdb
+E:\Fast\SEM 8\IPT\Assignments\K173795_A1\K173795_Q2\K173795_Q2\bin\Release\HtmlAgilityPack.xml
+E:\Fast\SEM 8\IPT\Assignments\K173795_A1\K173795_Q2\K173795_Q2\obj\Release\K173795_Q2.csproj.CoreCompileInputs.cache
+E:\Fast\SEM 8\IPT\Assignments\K173795_A1\K173795_Q2\K173795_Q2\obj\Release\K173795_Q2.csproj.CopyComplete
+E:\Fast\SEM 8\IPT\Assignments\K173795_A1\K173795_Q2\K173795_Q2\obj\Release\K173795_Q2.exe
+E:\Fast\SEM 8\IPT\Assignments\K173795_A1\K173795_Q2\K173795_Q2\obj\Release\K173795_Q2.pdb

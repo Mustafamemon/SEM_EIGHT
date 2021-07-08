@@ -1,0 +1,7 @@
+E:\Fast\SEM 8\IPT\Labs\Lab_1\K173795-Lab_1\Q7\bin\Debug\Q7.exe.config
+E:\Fast\SEM 8\IPT\Labs\Lab_1\K173795-Lab_1\Q7\bin\Debug\Q7.exe
+E:\Fast\SEM 8\IPT\Labs\Lab_1\K173795-Lab_1\Q7\bin\Debug\Q7.pdb
+E:\Fast\SEM 8\IPT\Labs\Lab_1\K173795-Lab_1\Q7\obj\Debug\Q7.csprojAssemblyReference.cache
+E:\Fast\SEM 8\IPT\Labs\Lab_1\K173795-Lab_1\Q7\obj\Debug\Q7.csproj.CoreCompileInputs.cache
+E:\Fast\SEM 8\IPT\Labs\Lab_1\K173795-Lab_1\Q7\obj\Debug\Q7.exe
+E:\Fast\SEM 8\IPT\Labs\Lab_1\K173795-Lab_1\Q7\obj\Debug\Q7.pdb

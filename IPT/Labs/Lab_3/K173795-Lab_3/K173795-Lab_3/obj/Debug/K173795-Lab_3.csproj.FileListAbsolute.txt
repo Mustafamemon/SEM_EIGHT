@@ -1,0 +1,7 @@
+E:\Fast\SEM 8\IPT\Labs\Lab_3\K173795-Lab_3\K173795-Lab_3\bin\Debug\K173795-Lab_3.exe.config
+E:\Fast\SEM 8\IPT\Labs\Lab_3\K173795-Lab_3\K173795-Lab_3\bin\Debug\K173795-Lab_3.exe
+E:\Fast\SEM 8\IPT\Labs\Lab_3\K173795-Lab_3\K173795-Lab_3\bin\Debug\K173795-Lab_3.pdb
+E:\Fast\SEM 8\IPT\Labs\Lab_3\K173795-Lab_3\K173795-Lab_3\obj\Debug\K173795-Lab_3.csprojAssemblyReference.cache
+E:\Fast\SEM 8\IPT\Labs\Lab_3\K173795-Lab_3\K173795-Lab_3\obj\Debug\K173795-Lab_3.csproj.CoreCompileInputs.cache
+E:\Fast\SEM 8\IPT\Labs\Lab_3\K173795-Lab_3\K173795-Lab_3\obj\Debug\K173795-Lab_3.exe
+E:\Fast\SEM 8\IPT\Labs\Lab_3\K173795-Lab_3\K173795-Lab_3\obj\Debug\K173795-Lab_3.pdb

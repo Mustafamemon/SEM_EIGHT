@@ -1,0 +1,7 @@
+E:\Fast\SEM 8\IPT\Assignments\A-1\K173795_Q1\K173795_Q1\bin\Debug\K173795_Q1.exe.config
+E:\Fast\SEM 8\IPT\Assignments\A-1\K173795_Q1\K173795_Q1\bin\Debug\K173795_Q1.exe
+E:\Fast\SEM 8\IPT\Assignments\A-1\K173795_Q1\K173795_Q1\bin\Debug\K173795_Q1.pdb
+E:\Fast\SEM 8\IPT\Assignments\A-1\K173795_Q1\K173795_Q1\obj\Debug\K173795_Q1.csprojAssemblyReference.cache
+E:\Fast\SEM 8\IPT\Assignments\A-1\K173795_Q1\K173795_Q1\obj\Debug\K173795_Q1.csproj.CoreCompileInputs.cache
+E:\Fast\SEM 8\IPT\Assignments\A-1\K173795_Q1\K173795_Q1\obj\Debug\K173795_Q1.exe
+E:\Fast\SEM 8\IPT\Assignments\A-1\K173795_Q1\K173795_Q1\obj\Debug\K173795_Q1.pdb

@@ -1,0 +1,10 @@
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q1\bin\Debug\Q1.exe.config
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q1\bin\Debug\Q1.exe
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q1\bin\Debug\Q1.pdb
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q1\obj\Debug\Q1.csprojAssemblyReference.cache
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q1\obj\Debug\Q1.Form1.resources
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q1\obj\Debug\Q1.Properties.Resources.resources
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q1\obj\Debug\Q1.csproj.GenerateResource.cache
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q1\obj\Debug\Q1.exe
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q1\obj\Debug\Q1.pdb

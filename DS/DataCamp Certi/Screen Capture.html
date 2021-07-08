@@ -1,0 +1,188 @@
+
+<!-- saved from url=(0066)chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/showimage.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Screen Capture</title>
+
+<link href="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/showimage.css" rel="stylesheet" type="text/css">
+<link type="text/css" rel="stylesheet" href="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/i18n_styles/en_US_upload_image.css"></head>
+<body>
+  <div id="header">
+  <div id="toolbar" class="toolbar">
+   <ul>
+    <li id="btnHighlight" class="mark">
+    <div class="colorBox" id="highlightColorBox" style="border-color: rgb(255, 0, 0); background: rgb(255, 255, 255); opacity: 1; border-radius: 0px;"></div>
+    <span id="tHighlight">Highlight</span>
+        <div class="tool" id="highlightTool">
+        <div id="highlightColorPad"><div id="colorpad"><a id="#000000" title="#000000" style="background-color: rgb(0, 0, 0);"></a><a id="#0036ff" title="#0036ff" style="background-color: rgb(0, 54, 255);"></a><a id="#008000" title="#008000" style="background-color: rgb(0, 128, 0);"></a><a id="#dacb23" title="#dacb23" style="background-color: rgb(218, 203, 35);"></a><a id="#d56400" title="#d56400" style="background-color: rgb(213, 100, 0);"></a><a id="#c70000" title="#c70000" style="background-color: rgb(199, 0, 0);"></a><a id="#be00b3" title="#be00b3" style="background-color: rgb(190, 0, 179);"></a><a id="#1e2188" title="#1e2188" style="background-color: rgb(30, 33, 136);"></a><a id="#0090ff" title="#0090ff" style="background-color: rgb(0, 144, 255);"></a><a id="#22cc01" title="#22cc01" style="background-color: rgb(34, 204, 1);"></a><a id="#ffff00" title="#ffff00" style="background-color: rgb(255, 255, 0);"></a><a id="#ff9600" title="#ff9600" style="background-color: rgb(255, 150, 0);"></a><a id="#ff0000" title="#ff0000" style="background-color: rgb(255, 0, 0);"></a><a id="#ff008e" title="#ff008e" style="background-color: rgb(255, 0, 142);"></a><a id="#7072c3" title="#7072c3" style="background-color: rgb(112, 114, 195);"></a><a id="#49d2ff" title="#49d2ff" style="background-color: rgb(73, 210, 255);"></a><a id="#9dff3d" title="#9dff3d" style="background-color: rgb(157, 255, 61);"></a><a id="#ffffff" title="#ffffff" style="background-color: rgb(255, 255, 255); border: 1px solid rgb(68, 68, 68); width: 12px; height: 12px;"></a><a id="#ffbb59" title="#ffbb59" style="background-color: rgb(255, 187, 89);"></a><a id="#ff6b6b" title="#ff6b6b" style="background-color: rgb(255, 107, 107);"></a><a id="#ff6bbd" title="#ff6bbd" style="background-color: rgb(255, 107, 189);"></a></div></div>
+        <div class="clear"></div>
+        <div class="tool-option" style="border-top: 1px solid #ccc; padding-top:2px; margin-top:5px;">
+          <div id="borderMode" class="mark"><span id="border">Draw Border Only</span></div>
+          <div id="rectMode" class=""><span id="rect">Fill Entire Area</span></div>
+        </div>
+        <div class="tool-option-line">
+          <div id="rectangle" class="mark"><span class="rect"></span></div>
+          <div id="radiusRectangle" class=""><span class="radiusRect"></span></div>
+          <div id="ellipse" class=""><span class="ellipse"></span></div>
+        </div>
+      </div>
+    </li>
+    <li id="btnBlackout">
+      <div class="blurBox" id="blackoutBox"></div>
+      <span id="tRedact">Redact</span>
+      <div class="tool tool-option">
+        <div id="redact" class=""><span id="redactText">Solid Black</span></div>
+        <div id="blur" class="mark"><span id="blurText">Blur</span></div>
+      </div>
+    </li>
+    <li id="btnText">
+    <div class="colorBox" id="fontColorBox" style="background-color: rgb(255, 0, 0);"></div>
+    <span id="tText">Text</span>
+    <div class="tool" id="fontTool">
+      <div id="fontColorPad"><div id="colorpad"><a id="#000000" title="#000000" style="background-color: rgb(0, 0, 0);"></a><a id="#0036ff" title="#0036ff" style="background-color: rgb(0, 54, 255);"></a><a id="#008000" title="#008000" style="background-color: rgb(0, 128, 0);"></a><a id="#dacb23" title="#dacb23" style="background-color: rgb(218, 203, 35);"></a><a id="#d56400" title="#d56400" style="background-color: rgb(213, 100, 0);"></a><a id="#c70000" title="#c70000" style="background-color: rgb(199, 0, 0);"></a><a id="#be00b3" title="#be00b3" style="background-color: rgb(190, 0, 179);"></a><a id="#1e2188" title="#1e2188" style="background-color: rgb(30, 33, 136);"></a><a id="#0090ff" title="#0090ff" style="background-color: rgb(0, 144, 255);"></a><a id="#22cc01" title="#22cc01" style="background-color: rgb(34, 204, 1);"></a><a id="#ffff00" title="#ffff00" style="background-color: rgb(255, 255, 0);"></a><a id="#ff9600" title="#ff9600" style="background-color: rgb(255, 150, 0);"></a><a id="#ff0000" title="#ff0000" style="background-color: rgb(255, 0, 0);"></a><a id="#ff008e" title="#ff008e" style="background-color: rgb(255, 0, 142);"></a><a id="#7072c3" title="#7072c3" style="background-color: rgb(112, 114, 195);"></a><a id="#49d2ff" title="#49d2ff" style="background-color: rgb(73, 210, 255);"></a><a id="#9dff3d" title="#9dff3d" style="background-color: rgb(157, 255, 61);"></a><a id="#ffffff" title="#ffffff" style="background-color: rgb(255, 255, 255); border: 1px solid rgb(68, 68, 68); width: 12px; height: 12px;"></a><a id="#ffbb59" title="#ffbb59" style="background-color: rgb(255, 187, 89);"></a><a id="#ff6b6b" title="#ff6b6b" style="background-color: rgb(255, 107, 107);"></a><a id="#ff6bbd" title="#ff6bbd" style="background-color: rgb(255, 107, 189);"></a></div></div>
+      <div class="clear"></div>
+      <div class="tool-option" style="border-top: 1px solid #ccc; padding:2px 0 0 0; margin-top:5px">
+       <div id="size_10" style="font-size: 10px" class="">Small</div>
+       <div id="size_16" style="font-size: 16px" class="mark">Normal</div>
+       <div id="size_18" style="font-size: 18px" class="">Large</div>
+       <div id="size_32" class="" style="font-size: 32px">Huge</div>
+     </div>
+    </div>
+    </li>
+    <li id="btnLine">
+      <canvas id="lineIconCav" width="14" height="14"></canvas>
+      <span id="lineText">Line</span>
+      <div class="tool">
+       <div id="lineColorPad"><div id="colorpad"><a id="#000000" title="#000000" style="background-color: rgb(0, 0, 0);"></a><a id="#0036ff" title="#0036ff" style="background-color: rgb(0, 54, 255);"></a><a id="#008000" title="#008000" style="background-color: rgb(0, 128, 0);"></a><a id="#dacb23" title="#dacb23" style="background-color: rgb(218, 203, 35);"></a><a id="#d56400" title="#d56400" style="background-color: rgb(213, 100, 0);"></a><a id="#c70000" title="#c70000" style="background-color: rgb(199, 0, 0);"></a><a id="#be00b3" title="#be00b3" style="background-color: rgb(190, 0, 179);"></a><a id="#1e2188" title="#1e2188" style="background-color: rgb(30, 33, 136);"></a><a id="#0090ff" title="#0090ff" style="background-color: rgb(0, 144, 255);"></a><a id="#22cc01" title="#22cc01" style="background-color: rgb(34, 204, 1);"></a><a id="#ffff00" title="#ffff00" style="background-color: rgb(255, 255, 0);"></a><a id="#ff9600" title="#ff9600" style="background-color: rgb(255, 150, 0);"></a><a id="#ff0000" title="#ff0000" style="background-color: rgb(255, 0, 0);"></a><a id="#ff008e" title="#ff008e" style="background-color: rgb(255, 0, 142);"></a><a id="#7072c3" title="#7072c3" style="background-color: rgb(112, 114, 195);"></a><a id="#49d2ff" title="#49d2ff" style="background-color: rgb(73, 210, 255);"></a><a id="#9dff3d" title="#9dff3d" style="background-color: rgb(157, 255, 61);"></a><a id="#ffffff" title="#ffffff" style="background-color: rgb(255, 255, 255); border: 1px solid rgb(68, 68, 68); width: 12px; height: 12px;"></a><a id="#ffbb59" title="#ffbb59" style="background-color: rgb(255, 187, 89);"></a><a id="#ff6b6b" title="#ff6b6b" style="background-color: rgb(255, 107, 107);"></a><a id="#ff6bbd" title="#ff6bbd" style="background-color: rgb(255, 107, 189);"></a></div></div>
+       <div class="clear"></div>
+       <div class="tool-option-line">
+         <div id="straightLine" class="mark"><img src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/images/line.png" alt=""> </div>
+         <div id="arrow" class=""><img src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/images/arrow.png" alt=""> </div>
+       </div>
+      </div>
+    </li>
+  </ul>
+  </div>
+  <div id="tip"></div>
+  <div class="toolbar" id="okBtn" style="position:fixed; right:30px; top:0px;">
+    <ul>
+      <li id="btnSave">
+        <img src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/images/icon_save.png" alt="">
+        <span id="tSave">Save</span>
+      </li>
+      <li id="btnClose">
+        <img src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/images/icon_close.png" alt="">
+        <span id="tClose">Close</span>
+      </li>
+    </ul>
+  </div>
+  <div class="clear"></div>
+  </div>
+  <div id="showBox" style="height: 588px;">
+  <div id="photo" style="width: 1349px; height: 1556px;">
+  <canvas id="canvas" width="1349" height="1556" style="display: block;"></canvas>
+  <canvas id="mask-canvas" width="1349" height="1556"></canvas>
+  <div class="layer" id="layer0"></div>
+  </div>
+  </div>
+  <div id="selectuploadposition">
+    <div class="selectcontent">
+    <div id="selectPrompt" style="padding:30px 0 0 30px; "></div>
+      <div style="padding: 5px 0 0 30px;">
+      <div style="padding: 5px 5px;"><input id="selectSina" type="radio"><span id="sina"></span></div>
+      <div style="padding: 5px 5px;"><input id="selectFacebook" type="radio"><span id="facebook"></span></div>
+      </div>
+    </div>
+    <div style="float: right; margin: 5px 15px 0 0;"><button id="uploadFile"></button><button id="cancelUpload"></button></div>
+  </div>
+  <img id="pic" src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/showimage.html#" style="display:none">
+  <div id="uploadWrapper" style="display: none;">
+    <div id="uploadHeader">
+      <div style="height: 31px; padding-left: 12px; border: 1px solid white; border-top-left-radius: 3px; border-top-right-radius: 3px;">
+        <span class="verticalAlignMiddle"></span>
+      </div>
+    </div>
+    <div id="uploadBody">
+      <div id="uploadSitesWrapper" class="verticalAlignMiddle">
+        <span class="btn" id="picasaBtn">
+          <span class="uploadSite">
+            <img src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/images/picasa_icon.png" alt="picasa">
+            <span id="shareToPicasaText">Picasa Web</span>
+          </span>
+        </span>
+        <span class="btn" id="facebookBtn">
+          <span class="uploadSite">
+            <img src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/images/facebook_icon.png" alt="facebook">
+            <span id="shareToFacebookText">Facebook</span>
+          </span>
+        </span>
+        <span class="btn" id="sinaMicroblogBtn">
+          <span class="uploadSite">
+            <img src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/images/sina_icon.png" alt="sina">
+            <span id="shareToSinaMicroblogText">Sina Microblog</span>
+          </span>
+        </span>
+        <span class="btn" id="imgurBtn">
+          <span class="uploadSite">
+            <img src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/images/imgur_icon.png" alt="imgur">
+            <span id="shareToImgurText">Imgur</span>
+          </span>
+        </span>
+      </div>
+      <div id="uploadContentWrapper" style="display:none;">
+        <div id="errorWrapper">
+          <div id="errorInfo"></div>
+        </div>
+        <div id="captionWrapper" style="font-size: 14px; padding-top: 28px;">
+          <label id="imageCaptionText" for="imageCaption">Image Title</label>
+          <input type="text" maxlength="140" id="imageCaption" autofocus="true">
+          <span id="requiredFlag" title="Image title is required.">*</span>
+        </div>
+        <div id="uploadAccountWrapper" style="min-height: 60px;">
+          <ul id="uploadAccountList"></ul>
+          <div id="shareToOtherAccount"></div>
+          <span id="authenticationProgress" class="progressBar"></span>
+          <div id="accountItemTemplate" style="display: none;">
+            <li id="${accountId}" class="accountItem">
+              <span style="display: inline-block;">
+                <span class="account">
+                  <span id="accountName" class="accountName" title="${accountName}" data-site="${site}" data-user-id="${userId}">${accountName}</span>
+                  <img id="deleteBtn" class="deleteBtn" src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/images/delete_account_icon.png" alt="Delete" title="${deletionTitle}" data-account-id="${accountId}">
+                </span>
+              </span>
+              <span class="progressBar" style="display: none;" title="${progressInfo}"></span>
+              <span class="uploadInfo" style="display: none;"></span>
+              <span style="float: right; margin-right: 35px; font-weight: normal;">
+                <a class="photoLink" target="_blank" href="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/showimage.html#">${photoLinkText}</a>
+              </span>
+            </li>
+          </div>
+        </div>
+        <div id="photoSizeTip" style="color: #a4a4a4; font-weight: normal; margin-bottom: 15px;">Hint: You may fail to upload an image bigger than 3M bytes.</div>
+      </div>
+    </div>
+    <div id="uploadFooter">
+      <span style="display: inline-block; height: inherit;">
+        <span class="verticalAlignMiddle">
+          <button id="lastStep" style="display: none;">Back</button>
+          <button id="closeUploadWrapper">Close</button>
+        </span>
+      </span>
+    </div>
+  </div>
+  <div id="overlay"></div>
+  <script src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/lib/FileSaver.min.js"></script>
+  <script src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/js/editor.js"></script>
+  <script src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/js/sha1.js"></script>
+  <script src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/js/oauth.js"></script>
+  <script src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/js/ajax.js"></script>
+  <script src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/js/account.js"></script>
+  <script src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/js/ui.js"></script>
+  <script src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/js/upload_ui.js"></script>
+  <script src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/js/facebook.js"></script>
+  <script src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/js/sina_microblog.js"></script>
+  <script src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/js/picasa.js"></script>
+  <script src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/js/imgur.js"></script>
+  <script src="chrome-extension://ghihpjhpgdepnohngpgfcmcijmkggpaf/js/showimage.js"></script>
+
+
+</body></html>

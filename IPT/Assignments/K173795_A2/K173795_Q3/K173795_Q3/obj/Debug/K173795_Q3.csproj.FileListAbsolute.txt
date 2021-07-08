@@ -1,0 +1,8 @@
+E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\obj\Debug\K173795_Q3.csproj.CoreCompileInputs.cache
+E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe.config
+E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.exe
+E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\bin\Debug\K173795_Q3.pdb
+E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\obj\Debug\K173795_Q3.exe
+E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\obj\Debug\K173795_Q3.pdb
+E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\obj\Debug\K173795_Q3.ProjectInstaller.resources
+E:\Fast\SEM 8\IPT\Assignments\K173795_A2\K173795_Q3\K173795_Q3\obj\Debug\K173795_Q3.csproj.GenerateResource.cache

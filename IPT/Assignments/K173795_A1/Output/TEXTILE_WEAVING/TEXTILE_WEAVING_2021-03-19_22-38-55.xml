@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+  <Scripts>
+    <Script>Prosperity Weaving Mills Ltd. </Script>
+    <Price>47.9</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Samin Textiles Ltd. [ DEFAULTER SEGMENT ]</Script>
+    <Price>7.89</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Service Fabrics Ltd. </Script>
+    <Price>9.43</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Shahtaj Textile Ltd. </Script>
+    <Price>92.42</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Yousuf Weaving Mills Limited. </Script>
+    <Price>3.73</Price>
+  </Scripts>
+  <Scripts>
+    <Script>Zephyr Textile Limited. </Script>
+    <Price>12</Price>
+  </Scripts>
+</xml>

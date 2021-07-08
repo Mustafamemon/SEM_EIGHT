@@ -1,0 +1,22 @@
+i.	Drop column Age as it does not contain any value
+del df['Age'] or
+df.dropna(axis=1,how="all",inplace=True)
+ii.	All empty strings in the Name column should be replaced by “---“
+df['Name'] = df['Name'].fillna(value="---")
+or
+df['Name'].replace(np.NaN,'---',inplace=True)
+
+iii.	In the Field column replace “C” with 0 and “E” with 1. The column must contain only numeric values after this operation
+bl_map = {"C":0, "E":1}
+
+df["Field"] = df["Field"].map(lbl_map)
+or
+df['Field'] = df['Field'].replace('C',0)
+df['Field'] = df['Field'].replace('E',1)
+or
+df['Field'] = df.Field.replace('C',0)
+df['Field'] = df.Field.replace('E',1)
+iv.                 Negative values are not permitted in Marks column. The invalid value in Marks column should be replaced with the average of all valid values in the same column
+ 		df["Marks"]= df["Marks"].where(df["Marks"]>=0)
+
+df["Marks"].fillna(df["Marks"].mean(), inplace=True)

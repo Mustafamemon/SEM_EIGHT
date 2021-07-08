@@ -1,0 +1,12 @@
+c:\users\k173650\documents\visual studio 2013\Projects\ConsoleApplication1\Q3\bin\Debug\Q3.exe.config
+c:\users\k173650\documents\visual studio 2013\Projects\ConsoleApplication1\Q3\bin\Debug\Q3.exe
+c:\users\k173650\documents\visual studio 2013\Projects\ConsoleApplication1\Q3\bin\Debug\Q3.pdb
+c:\users\k173650\documents\visual studio 2013\Projects\ConsoleApplication1\Q3\obj\Debug\Q3.exe
+c:\users\k173650\documents\visual studio 2013\Projects\ConsoleApplication1\Q3\obj\Debug\Q3.pdb
+E:\Fast\SEM 8\IPT\Labs\Lab_1\K173795-Lab_1\Q3\bin\Debug\Q3.exe.config
+E:\Fast\SEM 8\IPT\Labs\Lab_1\K173795-Lab_1\Q3\bin\Debug\Q3.exe
+E:\Fast\SEM 8\IPT\Labs\Lab_1\K173795-Lab_1\Q3\bin\Debug\Q3.pdb
+E:\Fast\SEM 8\IPT\Labs\Lab_1\K173795-Lab_1\Q3\obj\Debug\Q3.csprojAssemblyReference.cache
+E:\Fast\SEM 8\IPT\Labs\Lab_1\K173795-Lab_1\Q3\obj\Debug\Q3.csproj.CoreCompileInputs.cache
+E:\Fast\SEM 8\IPT\Labs\Lab_1\K173795-Lab_1\Q3\obj\Debug\Q3.exe
+E:\Fast\SEM 8\IPT\Labs\Lab_1\K173795-Lab_1\Q3\obj\Debug\Q3.pdb

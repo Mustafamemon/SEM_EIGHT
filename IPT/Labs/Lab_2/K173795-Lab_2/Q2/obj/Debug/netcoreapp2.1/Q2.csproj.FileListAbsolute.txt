@@ -1,0 +1,11 @@
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q2\bin\Debug\netcoreapp2.1\Q2.deps.json
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q2\bin\Debug\netcoreapp2.1\Q2.runtimeconfig.json
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q2\bin\Debug\netcoreapp2.1\Q2.runtimeconfig.dev.json
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q2\bin\Debug\netcoreapp2.1\Q2.dll
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q2\bin\Debug\netcoreapp2.1\Q2.pdb
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q2\obj\Debug\netcoreapp2.1\Q2.csprojAssemblyReference.cache
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q2\obj\Debug\netcoreapp2.1\Q2.csproj.CoreCompileInputs.cache
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q2\obj\Debug\netcoreapp2.1\Q2.AssemblyInfoInputs.cache
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q2\obj\Debug\netcoreapp2.1\Q2.AssemblyInfo.cs
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q2\obj\Debug\netcoreapp2.1\Q2.dll
+E:\Fast\SEM 8\IPT\Labs\Lab_2\K173795-Lab_2\Q2\obj\Debug\netcoreapp2.1\Q2.pdb
